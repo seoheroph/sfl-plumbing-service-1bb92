@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seoheroph.github.io/sfl-plumbing-service-1bb92/sitemap.xml
